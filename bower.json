@@ -16,14 +16,5 @@
     "output",
     "bower.json",
     "package.json"
-  ],
-  "dependencies": {
-    "purescript-effect": "^4.0.0",
-    "purescript-functions": "^6.0.0",
-    "purescript-maybe": "^6.0.0",
-    "purescript-prelude": "^6.0.0"
-  },
-  "devDependencies": {
-    "purescript-assert": "^6.0.0"
-  }
+  ]
 }
