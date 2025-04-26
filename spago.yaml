@@ -16,4 +16,5 @@ package:
     dependencies:
       - assert
       - effect
+# `registry` doesn't serve any purpose because library is published with version ranges
 workspace: {}
